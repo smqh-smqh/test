@@ -1,0 +1,4 @@
+[file:testlog.cc func:main line:7]info
+[file:testlog.cc func:main line:8]warn
+[file:testlog.cc func:main line:9]debug
+[file:testlog.cc func:main line:10]error
